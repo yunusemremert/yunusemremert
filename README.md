@@ -11,6 +11,10 @@
 
 - 📄 Know about my experiences [https://yunusemremert.com.tr/hakkimda/](https://yunusemremert.com.tr/hakkimda/)
 
+👉 My Blog Posts [https://medium.com/@yunusemremert](https://medium.com/@yunusemremert)
+
+- | **2023** | [Gorm, Fiber, PostgreSQL ve Docker kullanarak Golang REST API](https://medium.com/@yunusemremert/gorm-fiber-postgresql-ve-docker-kullanarak-golang-rest-api-5986c3af37b9)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yunusemremert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yunusemremert" height="30" width="40" /></a>
